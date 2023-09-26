@@ -6,6 +6,7 @@ public class HolaMunddo {
 		// TODO Auto-generated method stub
 		System.out.println("hola aaaaaa");
 		System.out.println("bienvenida al curso de calidad");
+		System.out.println("Cambios de pareja");
 	}
 
 }
